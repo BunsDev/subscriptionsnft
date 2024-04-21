@@ -1,6 +1,6 @@
 # Subscriptions NFT
 
-<h4 align="center">
+<h4 align="left">
   <a href="https://subscriptionsnft-nextjs.vercel.app/">Website</a>
 </h4>
 
